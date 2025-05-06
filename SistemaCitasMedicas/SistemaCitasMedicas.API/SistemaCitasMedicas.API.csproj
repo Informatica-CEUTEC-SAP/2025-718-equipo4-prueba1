@@ -23,8 +23,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="SistemaCitasMedicas.Application\" />
-      <Folder Include="SistemaCitasMedicas.Domain\" />
       <Folder Include="SistemaCitasMedicas.Infrastructure\" />
     </ItemGroup>
 
